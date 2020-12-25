@@ -4,14 +4,15 @@ HackerRank is a tech company that focuses on competitive programming challenges 
 
 On the consumer side, when a programmer submits a solution to a programming challenge, their submission is scored on the accuracy of their output. Programmers are then ranked globally on the HackerRank leaderboard and earn badges based on their accomplishments to drive competition among users. In addition to individual coding challenges, HackerRank also hosts contests (often referred to by HackerRank as "CodeSprints") where users compete on the same programming challenges during a set period of time and are then ranked at the conclusion of the event. HackerRank is part of the growing gamification trend within competitive computer programming and the consumer-side of their website is free for coders to use.
 
-<table class="infobox vcard" style="width:22em">
-  <caption class="fn org">HackerRank</caption>
+<table style="width:20em">
   <tbody>
     <tr>
-      <td colspan="2" class="logo" style="text-align:center">
-        <a href="/wiki/File:HackerRank_Icon-1000px.png" class="image">
-          <img alt="HackerRank Icon-1000px.png" src="https://github.com/CormacKrum/CodeForces/blob/master/HackerRank.png" data-file-width="1000" data-file-height="1000">
+      <td colspan="2" style="text-align:center">
+        <p align="center">
+        <a class="image">
+          <img align="center" alt="HackerRank Icon-1000px.png" src="https://github.com/JayantGoel001/HackerRank/blob/master/HackerRank.png" width="300px" height="260px">
         </a>
+        </p>
       </td>
     </tr>
     <tr>

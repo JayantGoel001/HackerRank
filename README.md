@@ -33,7 +33,7 @@ On the consumer side, when a programmer submits a solution to a programming chal
     <tr>
       <th scope="row" style="padding-right: 0.5em;">Headquarters</th>
       <td class="adr" style="line-height: 1.35em;">
-        <div style="display: inline;" class="locality">Mountain View, CA</div>, <div style="display: inline;" class="country-name">United States</div>
+        <div>Mountain View, CA, United States</div>
       </td>
     </tr>
     <tr>

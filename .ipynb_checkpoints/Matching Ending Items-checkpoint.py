@@ -1,1 +1,0 @@
-Regex_Pattern = r'^[a-zA-z]*[s]$'

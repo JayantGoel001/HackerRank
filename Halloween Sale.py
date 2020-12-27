@@ -9,7 +9,6 @@ while(sum<=tot):
     if(st<=end):
         st=end
     sum=sum+st;
-    #print(st)
     st=st-diff
     c+=1
 print(c)

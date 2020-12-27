@@ -90,9 +90,9 @@ Their enterprise-side product, HackerRank for Work, is a subscription service th
 ## Notable releases
 
 * **CodePair**, released in February 2014, combines programming challenges with real-time video for interviewing.
-* **DroidRank**, released in November 2014, adds support for Android-based programming challenges.[20]
-* **SudoRank**, released in February 2015, adds support for Linux-based scripting challenges[21]
-* **DbRank**, released in July 2015, adds support for Database challenges in IBM DB2, MySQL, MS SQL, and Oracle[22]
+* **DroidRank**, released in November 2014, adds support for Android-based programming challenges.
+* **SudoRank**, released in February 2015, adds support for Linux-based scripting challenges. 
+* **DbRank**, released in July 2015, adds support for Database challenges in IBM DB2, MySQL, MS SQL, and Oracle
 
 ## Customers
 

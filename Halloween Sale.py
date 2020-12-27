@@ -1,0 +1,15 @@
+st,diff,end,tot=input().split()
+st=int(st)
+diff=int(diff)
+end=int(end)
+tot=int(tot)
+c=-1
+sum=0
+while(sum<=tot):
+    if(st<=end):
+        st=end
+    sum=sum+st;
+    #print(st)
+    st=st-diff
+    c+=1
+print(c)

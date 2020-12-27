@@ -4,9 +4,9 @@ public static int getHeight(Node root)
     {
         return -1;
     }
-    Solution obj=new Solution();
-    int ldepth=obj.getHeight(root.left);
-    int rdepth=obj.getHeight(root.right);
+    Solution obj = new Solution();
+    int ldepth = obj.getHeight(root.left);
+    int rdepth = obj.getHeight(root.right);
     if(ldepth>rdepth)
     {
         return ldepth+1;

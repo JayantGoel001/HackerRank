@@ -6,11 +6,9 @@
 
 #IncludeRegexTransform: 
 
-D:/HackerRank/Weighted Uniform Strings.cpp
+D:/HackerRank/Separate the Numbers.cpp
 iostream
 -
-map
--
-set
+vector
 -
 

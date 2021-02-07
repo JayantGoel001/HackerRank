@@ -2,7 +2,7 @@ file(REMOVE_RECURSE
   "..exe"
   "..exe.manifest"
   "..pdb"
-  "CMakeFiles/..dir/Weighted_Uniform_Strings.cpp.obj"
+  "CMakeFiles/..dir/Separate_the_Numbers.cpp.obj"
   "lib..dll.a"
 )
 

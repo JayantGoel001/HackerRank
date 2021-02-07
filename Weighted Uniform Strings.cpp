@@ -8,6 +8,10 @@ int main(){
     set<int> s;
     map<char,int> mp;
     int len = str.length();
+    map<char,int> character;
+    for (int i = 0; i < 26; ++i) {
+        character.insert(make_pair(i+97,i+1));
+    }
     for (int i = 0; i < len; ++i) {
         if (mp.count(str[i])==0){
             mp[str[i]] = 1;
@@ -15,13 +19,10 @@ int main(){
             mp[str[i]]+=1;
         }
     }
-    int k=1;
-    for (int i = 0; i < len; ) {
-        for (int j = 1; j <= mp[str[i]]; ++j) {
-            s.insert(k*j);
+    for(auto & it : mp){
+        for(int i=1;i<=it.second;i++){
+            s.insert(i*character[it.first]);
         }
-        i+=mp[str[i]];
-        k++;
     }
     int n;
     cin>>n;

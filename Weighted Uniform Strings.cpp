@@ -6,23 +6,21 @@ int main(){
     string str;
     cin>>str;
     set<int> s;
-    map<char,int> mp;
     int len = str.length();
     map<char,int> character;
     for (int i = 0; i < 26; ++i) {
         character.insert(make_pair(i+97,i+1));
     }
+    char prev = ' ';
+    int mul = 1;
     for (int i = 0; i < len; ++i) {
-        if (mp.count(str[i])==0){
-            mp[str[i]] = 1;
+        if (i>0 && prev==str[i]){
+            mul++;
         } else{
-            mp[str[i]]+=1;
+            mul=1;
         }
-    }
-    for(auto & it : mp){
-        for(int i=1;i<=it.second;i++){
-            s.insert(i*character[it.first]);
-        }
+        s.insert(mul*character[str[i]]);
+        prev = str[i];
     }
     int n;
     cin>>n;

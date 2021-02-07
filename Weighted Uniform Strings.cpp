@@ -1,35 +1,34 @@
 #include <iostream>
 #include <map>
+#include <set>
 using namespace std;
 int main(){
     string str;
     cin>>str;
-    map<int,bool> m;
+    set<int> s;
+    map<char,int> mp;
     int len = str.length();
-    int k=1;
-    int lastI;
     for (int i = 0; i < len; ++i) {
-        if (i>=1){
-            lastI = i+1;
-            while (str[i]==str[i-1]){
-                m[lastI*k] = true;
-                k+=1;
-                i+=1;
-            }
-            if (str[i]!=str[i-1]){
-                k=1;
-                m[i+1]= true;
-            }
+        if (mp.count(str[i])==0){
+            mp[str[i]] = 1;
         } else{
-            m[i+1] = true;
+            mp[str[i]]+=1;
         }
+    }
+    int k=1;
+    for (int i = 0; i < len; ) {
+        for (int j = 1; j <= mp[str[i]]; ++j) {
+            s.insert(k*j);
+        }
+        i+=mp[str[i]];
+        k++;
     }
     int n;
     cin>>n;
     for (int i = 0; i < n; ++i) {
         int x;
         cin>>x;
-        if (m.count(x)==0){
+        if (s.count(x) == 0){
             cout<<"No\n";
         } else{
             cout<<"Yes\n";

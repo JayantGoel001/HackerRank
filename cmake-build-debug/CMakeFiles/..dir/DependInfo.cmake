@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "D:/HackerRank/Weighted Uniform Strings.cpp" "D:/HackerRank/cmake-build-debug/CMakeFiles/..dir/Weighted_Uniform_Strings.cpp.obj"
+  "D:/HackerRank/Separate the Numbers.cpp" "D:/HackerRank/cmake-build-debug/CMakeFiles/..dir/Separate_the_Numbers.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

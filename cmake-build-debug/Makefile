@@ -142,32 +142,32 @@ depend:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\..dir\build.make CMakeFiles/..dir/build
 .PHONY : ./fast
 
-Two_Characters.obj: Two_Characters.cpp.obj
+Weighted_Uniform_Strings.obj: Weighted_Uniform_Strings.cpp.obj
 
-.PHONY : Two_Characters.obj
+.PHONY : Weighted_Uniform_Strings.obj
 
 # target to build an object file
-Two_Characters.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\..dir\build.make CMakeFiles/..dir/Two_Characters.cpp.obj
-.PHONY : Two_Characters.cpp.obj
+Weighted_Uniform_Strings.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\..dir\build.make CMakeFiles/..dir/Weighted_Uniform_Strings.cpp.obj
+.PHONY : Weighted_Uniform_Strings.cpp.obj
 
-Two_Characters.i: Two_Characters.cpp.i
+Weighted_Uniform_Strings.i: Weighted_Uniform_Strings.cpp.i
 
-.PHONY : Two_Characters.i
+.PHONY : Weighted_Uniform_Strings.i
 
 # target to preprocess a source file
-Two_Characters.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\..dir\build.make CMakeFiles/..dir/Two_Characters.cpp.i
-.PHONY : Two_Characters.cpp.i
+Weighted_Uniform_Strings.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\..dir\build.make CMakeFiles/..dir/Weighted_Uniform_Strings.cpp.i
+.PHONY : Weighted_Uniform_Strings.cpp.i
 
-Two_Characters.s: Two_Characters.cpp.s
+Weighted_Uniform_Strings.s: Weighted_Uniform_Strings.cpp.s
 
-.PHONY : Two_Characters.s
+.PHONY : Weighted_Uniform_Strings.s
 
 # target to generate assembly for a file
-Two_Characters.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\..dir\build.make CMakeFiles/..dir/Two_Characters.cpp.s
-.PHONY : Two_Characters.cpp.s
+Weighted_Uniform_Strings.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\..dir\build.make CMakeFiles/..dir/Weighted_Uniform_Strings.cpp.s
+.PHONY : Weighted_Uniform_Strings.cpp.s
 
 # Help Target
 help:
@@ -178,9 +178,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... .
-	@echo ... Two_Characters.obj
-	@echo ... Two_Characters.i
-	@echo ... Two_Characters.s
+	@echo ... Weighted_Uniform_Strings.obj
+	@echo ... Weighted_Uniform_Strings.i
+	@echo ... Weighted_Uniform_Strings.s
 .PHONY : help
 
 

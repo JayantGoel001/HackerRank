@@ -6,11 +6,9 @@
 
 #IncludeRegexTransform: 
 
-D:/HackerRank/Two Characters.cpp
+D:/HackerRank/Weighted Uniform Strings.cpp
 iostream
 -
 map
--
-vector
 -
 

@@ -76,27 +76,27 @@ include CMakeFiles/..dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/..dir/flags.make
 
-CMakeFiles/..dir/Two_Characters.cpp.obj: CMakeFiles/..dir/flags.make
-CMakeFiles/..dir/Two_Characters.cpp.obj: ../Two\ Characters.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\HackerRank\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/..dir/Two_Characters.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\..dir\Two_Characters.cpp.obj -c "D:\HackerRank\Two Characters.cpp"
+CMakeFiles/..dir/Weighted_Uniform_Strings.cpp.obj: CMakeFiles/..dir/flags.make
+CMakeFiles/..dir/Weighted_Uniform_Strings.cpp.obj: ../Weighted\ Uniform\ Strings.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\HackerRank\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/..dir/Weighted_Uniform_Strings.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\..dir\Weighted_Uniform_Strings.cpp.obj -c "D:\HackerRank\Weighted Uniform Strings.cpp"
 
-CMakeFiles/..dir/Two_Characters.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/..dir/Two_Characters.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\HackerRank\Two Characters.cpp" > CMakeFiles\..dir\Two_Characters.cpp.i
+CMakeFiles/..dir/Weighted_Uniform_Strings.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/..dir/Weighted_Uniform_Strings.cpp.i"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\HackerRank\Weighted Uniform Strings.cpp" > CMakeFiles\..dir\Weighted_Uniform_Strings.cpp.i
 
-CMakeFiles/..dir/Two_Characters.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/..dir/Two_Characters.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\HackerRank\Two Characters.cpp" -o CMakeFiles\..dir\Two_Characters.cpp.s
+CMakeFiles/..dir/Weighted_Uniform_Strings.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/..dir/Weighted_Uniform_Strings.cpp.s"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\HackerRank\Weighted Uniform Strings.cpp" -o CMakeFiles\..dir\Weighted_Uniform_Strings.cpp.s
 
 # Object files for target .
 __OBJECTS = \
-"CMakeFiles/..dir/Two_Characters.cpp.obj"
+"CMakeFiles/..dir/Weighted_Uniform_Strings.cpp.obj"
 
 # External object files for target .
 __EXTERNAL_OBJECTS =
 
-..exe: CMakeFiles/..dir/Two_Characters.cpp.obj
+..exe: CMakeFiles/..dir/Weighted_Uniform_Strings.cpp.obj
 ..exe: CMakeFiles/..dir/build.make
 ..exe: CMakeFiles/..dir/linklibs.rsp
 ..exe: CMakeFiles/..dir/objects1.rsp

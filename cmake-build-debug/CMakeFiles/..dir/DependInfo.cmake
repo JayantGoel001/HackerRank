@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "D:/HackerRank/Deque-STL.cpp" "D:/HackerRank/cmake-build-debug/CMakeFiles/..dir/Deque-STL.cpp.obj"
+  "D:/HackerRank/Attending Workshops.cpp" "D:/HackerRank/cmake-build-debug/CMakeFiles/..dir/Attending_Workshops.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

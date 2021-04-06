@@ -2,7 +2,7 @@ file(REMOVE_RECURSE
   "..exe"
   "..exe.manifest"
   "..pdb"
-  "CMakeFiles/..dir/Deque-STL.cpp.obj"
+  "CMakeFiles/..dir/Attending_Workshops.cpp.obj"
   "lib..dll.a"
 )
 

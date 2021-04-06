@@ -142,32 +142,32 @@ depend:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\..dir\build.make CMakeFiles/..dir/build
 .PHONY : ./fast
 
-Deque-STL.obj: Deque-STL.cpp.obj
+Attending_Workshops.obj: Attending_Workshops.cpp.obj
 
-.PHONY : Deque-STL.obj
+.PHONY : Attending_Workshops.obj
 
 # target to build an object file
-Deque-STL.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\..dir\build.make CMakeFiles/..dir/Deque-STL.cpp.obj
-.PHONY : Deque-STL.cpp.obj
+Attending_Workshops.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\..dir\build.make CMakeFiles/..dir/Attending_Workshops.cpp.obj
+.PHONY : Attending_Workshops.cpp.obj
 
-Deque-STL.i: Deque-STL.cpp.i
+Attending_Workshops.i: Attending_Workshops.cpp.i
 
-.PHONY : Deque-STL.i
+.PHONY : Attending_Workshops.i
 
 # target to preprocess a source file
-Deque-STL.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\..dir\build.make CMakeFiles/..dir/Deque-STL.cpp.i
-.PHONY : Deque-STL.cpp.i
+Attending_Workshops.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\..dir\build.make CMakeFiles/..dir/Attending_Workshops.cpp.i
+.PHONY : Attending_Workshops.cpp.i
 
-Deque-STL.s: Deque-STL.cpp.s
+Attending_Workshops.s: Attending_Workshops.cpp.s
 
-.PHONY : Deque-STL.s
+.PHONY : Attending_Workshops.s
 
 # target to generate assembly for a file
-Deque-STL.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\..dir\build.make CMakeFiles/..dir/Deque-STL.cpp.s
-.PHONY : Deque-STL.cpp.s
+Attending_Workshops.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\..dir\build.make CMakeFiles/..dir/Attending_Workshops.cpp.s
+.PHONY : Attending_Workshops.cpp.s
 
 # Help Target
 help:
@@ -178,9 +178,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... .
-	@echo ... Deque-STL.obj
-	@echo ... Deque-STL.i
-	@echo ... Deque-STL.s
+	@echo ... Attending_Workshops.obj
+	@echo ... Attending_Workshops.i
+	@echo ... Attending_Workshops.s
 .PHONY : help
 
 

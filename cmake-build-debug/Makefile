@@ -142,32 +142,32 @@ depend:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\..dir\build.make CMakeFiles/..dir/build
 .PHONY : ./fast
 
-Attending_Workshops.obj: Attending_Workshops.cpp.obj
+Bit_Array.obj: Bit_Array.cpp.obj
 
-.PHONY : Attending_Workshops.obj
+.PHONY : Bit_Array.obj
 
 # target to build an object file
-Attending_Workshops.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\..dir\build.make CMakeFiles/..dir/Attending_Workshops.cpp.obj
-.PHONY : Attending_Workshops.cpp.obj
+Bit_Array.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\..dir\build.make CMakeFiles/..dir/Bit_Array.cpp.obj
+.PHONY : Bit_Array.cpp.obj
 
-Attending_Workshops.i: Attending_Workshops.cpp.i
+Bit_Array.i: Bit_Array.cpp.i
 
-.PHONY : Attending_Workshops.i
+.PHONY : Bit_Array.i
 
 # target to preprocess a source file
-Attending_Workshops.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\..dir\build.make CMakeFiles/..dir/Attending_Workshops.cpp.i
-.PHONY : Attending_Workshops.cpp.i
+Bit_Array.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\..dir\build.make CMakeFiles/..dir/Bit_Array.cpp.i
+.PHONY : Bit_Array.cpp.i
 
-Attending_Workshops.s: Attending_Workshops.cpp.s
+Bit_Array.s: Bit_Array.cpp.s
 
-.PHONY : Attending_Workshops.s
+.PHONY : Bit_Array.s
 
 # target to generate assembly for a file
-Attending_Workshops.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\..dir\build.make CMakeFiles/..dir/Attending_Workshops.cpp.s
-.PHONY : Attending_Workshops.cpp.s
+Bit_Array.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\..dir\build.make CMakeFiles/..dir/Bit_Array.cpp.s
+.PHONY : Bit_Array.cpp.s
 
 # Help Target
 help:
@@ -178,9 +178,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... .
-	@echo ... Attending_Workshops.obj
-	@echo ... Attending_Workshops.i
-	@echo ... Attending_Workshops.s
+	@echo ... Bit_Array.obj
+	@echo ... Bit_Array.i
+	@echo ... Bit_Array.s
 .PHONY : help
 
 

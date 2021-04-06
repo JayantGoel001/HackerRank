@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "D:/HackerRank/Attending Workshops.cpp" "D:/HackerRank/cmake-build-debug/CMakeFiles/..dir/Attending_Workshops.cpp.obj"
+  "D:/HackerRank/Bit Array.cpp" "D:/HackerRank/cmake-build-debug/CMakeFiles/..dir/Bit_Array.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

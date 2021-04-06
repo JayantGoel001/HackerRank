@@ -80,7 +80,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="D:/HackerRank/Attending Workshops.cpp">
+		<Unit filename="D:/HackerRank/Bit Array.cpp">
 			<Option target="."/>
 		</Unit>
 		<Unit filename="D:/HackerRank/CMakeLists.txt">

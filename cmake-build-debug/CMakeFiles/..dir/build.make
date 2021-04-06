@@ -76,27 +76,27 @@ include CMakeFiles/..dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/..dir/flags.make
 
-CMakeFiles/..dir/Attending_Workshops.cpp.obj: CMakeFiles/..dir/flags.make
-CMakeFiles/..dir/Attending_Workshops.cpp.obj: ../Attending\ Workshops.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\HackerRank\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/..dir/Attending_Workshops.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\..dir\Attending_Workshops.cpp.obj -c "D:\HackerRank\Attending Workshops.cpp"
+CMakeFiles/..dir/Bit_Array.cpp.obj: CMakeFiles/..dir/flags.make
+CMakeFiles/..dir/Bit_Array.cpp.obj: ../Bit\ Array.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\HackerRank\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/..dir/Bit_Array.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\..dir\Bit_Array.cpp.obj -c "D:\HackerRank\Bit Array.cpp"
 
-CMakeFiles/..dir/Attending_Workshops.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/..dir/Attending_Workshops.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\HackerRank\Attending Workshops.cpp" > CMakeFiles\..dir\Attending_Workshops.cpp.i
+CMakeFiles/..dir/Bit_Array.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/..dir/Bit_Array.cpp.i"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\HackerRank\Bit Array.cpp" > CMakeFiles\..dir\Bit_Array.cpp.i
 
-CMakeFiles/..dir/Attending_Workshops.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/..dir/Attending_Workshops.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\HackerRank\Attending Workshops.cpp" -o CMakeFiles\..dir\Attending_Workshops.cpp.s
+CMakeFiles/..dir/Bit_Array.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/..dir/Bit_Array.cpp.s"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\HackerRank\Bit Array.cpp" -o CMakeFiles\..dir\Bit_Array.cpp.s
 
 # Object files for target .
 __OBJECTS = \
-"CMakeFiles/..dir/Attending_Workshops.cpp.obj"
+"CMakeFiles/..dir/Bit_Array.cpp.obj"
 
 # External object files for target .
 __EXTERNAL_OBJECTS =
 
-..exe: CMakeFiles/..dir/Attending_Workshops.cpp.obj
+..exe: CMakeFiles/..dir/Bit_Array.cpp.obj
 ..exe: CMakeFiles/..dir/build.make
 ..exe: CMakeFiles/..dir/linklibs.rsp
 ..exe: CMakeFiles/..dir/objects1.rsp

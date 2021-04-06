@@ -6,7 +6,13 @@
 
 #IncludeRegexTransform: 
 
-D:/HackerRank/Attending Workshops.cpp
-bits/stdc++.h
+D:/HackerRank/Bit Array.cpp
+iostream
+-
+algorithm
+-
+set
+-
+vector
 -
 

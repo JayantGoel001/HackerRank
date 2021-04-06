@@ -2,7 +2,7 @@ file(REMOVE_RECURSE
   "..exe"
   "..exe.manifest"
   "..pdb"
-  "CMakeFiles/..dir/Separate_the_Numbers.cpp.obj"
+  "CMakeFiles/..dir/Deque-STL.cpp.obj"
   "lib..dll.a"
 )
 

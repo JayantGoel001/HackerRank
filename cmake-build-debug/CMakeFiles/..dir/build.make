@@ -76,27 +76,27 @@ include CMakeFiles/..dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/..dir/flags.make
 
-CMakeFiles/..dir/Separate_the_Numbers.cpp.obj: CMakeFiles/..dir/flags.make
-CMakeFiles/..dir/Separate_the_Numbers.cpp.obj: ../Separate\ the\ Numbers.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\HackerRank\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/..dir/Separate_the_Numbers.cpp.obj"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\..dir\Separate_the_Numbers.cpp.obj -c "D:\HackerRank\Separate the Numbers.cpp"
+CMakeFiles/..dir/Deque-STL.cpp.obj: CMakeFiles/..dir/flags.make
+CMakeFiles/..dir/Deque-STL.cpp.obj: ../Deque-STL.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=D:\HackerRank\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/..dir/Deque-STL.cpp.obj"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\..dir\Deque-STL.cpp.obj -c D:\HackerRank\Deque-STL.cpp
 
-CMakeFiles/..dir/Separate_the_Numbers.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/..dir/Separate_the_Numbers.cpp.i"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E "D:\HackerRank\Separate the Numbers.cpp" > CMakeFiles\..dir\Separate_the_Numbers.cpp.i
+CMakeFiles/..dir/Deque-STL.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/..dir/Deque-STL.cpp.i"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E D:\HackerRank\Deque-STL.cpp > CMakeFiles\..dir\Deque-STL.cpp.i
 
-CMakeFiles/..dir/Separate_the_Numbers.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/..dir/Separate_the_Numbers.cpp.s"
-	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S "D:\HackerRank\Separate the Numbers.cpp" -o CMakeFiles\..dir\Separate_the_Numbers.cpp.s
+CMakeFiles/..dir/Deque-STL.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/..dir/Deque-STL.cpp.s"
+	C:\PROGRA~2\MINGW-~1\I686-8~1.0-P\mingw32\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S D:\HackerRank\Deque-STL.cpp -o CMakeFiles\..dir\Deque-STL.cpp.s
 
 # Object files for target .
 __OBJECTS = \
-"CMakeFiles/..dir/Separate_the_Numbers.cpp.obj"
+"CMakeFiles/..dir/Deque-STL.cpp.obj"
 
 # External object files for target .
 __EXTERNAL_OBJECTS =
 
-..exe: CMakeFiles/..dir/Separate_the_Numbers.cpp.obj
+..exe: CMakeFiles/..dir/Deque-STL.cpp.obj
 ..exe: CMakeFiles/..dir/build.make
 ..exe: CMakeFiles/..dir/linklibs.rsp
 ..exe: CMakeFiles/..dir/objects1.rsp

@@ -142,32 +142,32 @@ depend:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\..dir\build.make CMakeFiles/..dir/build
 .PHONY : ./fast
 
-Separate_the_Numbers.obj: Separate_the_Numbers.cpp.obj
+Deque-STL.obj: Deque-STL.cpp.obj
 
-.PHONY : Separate_the_Numbers.obj
+.PHONY : Deque-STL.obj
 
 # target to build an object file
-Separate_the_Numbers.cpp.obj:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\..dir\build.make CMakeFiles/..dir/Separate_the_Numbers.cpp.obj
-.PHONY : Separate_the_Numbers.cpp.obj
+Deque-STL.cpp.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\..dir\build.make CMakeFiles/..dir/Deque-STL.cpp.obj
+.PHONY : Deque-STL.cpp.obj
 
-Separate_the_Numbers.i: Separate_the_Numbers.cpp.i
+Deque-STL.i: Deque-STL.cpp.i
 
-.PHONY : Separate_the_Numbers.i
+.PHONY : Deque-STL.i
 
 # target to preprocess a source file
-Separate_the_Numbers.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\..dir\build.make CMakeFiles/..dir/Separate_the_Numbers.cpp.i
-.PHONY : Separate_the_Numbers.cpp.i
+Deque-STL.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\..dir\build.make CMakeFiles/..dir/Deque-STL.cpp.i
+.PHONY : Deque-STL.cpp.i
 
-Separate_the_Numbers.s: Separate_the_Numbers.cpp.s
+Deque-STL.s: Deque-STL.cpp.s
 
-.PHONY : Separate_the_Numbers.s
+.PHONY : Deque-STL.s
 
 # target to generate assembly for a file
-Separate_the_Numbers.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles\..dir\build.make CMakeFiles/..dir/Separate_the_Numbers.cpp.s
-.PHONY : Separate_the_Numbers.cpp.s
+Deque-STL.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\..dir\build.make CMakeFiles/..dir/Deque-STL.cpp.s
+.PHONY : Deque-STL.cpp.s
 
 # Help Target
 help:
@@ -178,9 +178,9 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... .
-	@echo ... Separate_the_Numbers.obj
-	@echo ... Separate_the_Numbers.i
-	@echo ... Separate_the_Numbers.s
+	@echo ... Deque-STL.obj
+	@echo ... Deque-STL.i
+	@echo ... Deque-STL.s
 .PHONY : help
 
 

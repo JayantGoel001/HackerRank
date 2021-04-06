@@ -6,9 +6,9 @@
 
 #IncludeRegexTransform: 
 
-D:/HackerRank/Separate the Numbers.cpp
+D:/HackerRank/Deque-STL.cpp
 iostream
 -
-vector
+deque
 -
 

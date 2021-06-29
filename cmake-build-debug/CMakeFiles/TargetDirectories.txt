@@ -1,3 +1,0 @@
-D:/HackerRank/cmake-build-debug/CMakeFiles/..dir
-D:/HackerRank/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/HackerRank/cmake-build-debug/CMakeFiles/rebuild_cache.dir
